@@ -95,7 +95,7 @@ return function()
 	local function footer()
 		local stats = require("lazy").stats()
 		local ms = (math.floor(stats.startuptime * 100 + 0.5) / 100)
-		return "   Have Fun with neovim"
+		return "   Help poor children in uganda"
 			.. "  󰀨 v"
 			.. vim.version().major
 			.. "."

@@ -177,7 +177,7 @@ settings["treesitter_deps"] = {
 settings["gui_config"] = {
 	font_name = "Hack Nerd Font",
 	--font_name = "3270 Nerd Font",
-	font_size = 12,
+	font_size = 10,
 }
 
 -- Set the options specific to `neovide` here.
